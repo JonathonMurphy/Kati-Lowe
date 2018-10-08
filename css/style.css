@@ -1,0 +1,94 @@
+a {
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+/* unvisited link */
+a:link {
+    color: #292b2c;
+}
+/* visited link */
+a:visited {
+    color: #292b2c;
+}
+/* mouse over link */
+a:hover {
+    color: #292b2c;
+}
+/* selected link */
+a:active {
+    color: #292b2c;
+}
+
+hr {
+  background-color: #292b2c;
+}
+
+p {
+  color: #292b2c;
+  font-size: 26px;
+  font-family: 'Inconsolata', monospace;
+}
+
+h3 {
+  text-decoration: underline;
+  font-family: 'Rammetto One', cursive;
+}
+
+.parallax_img {
+  background-image: url("../imgs/Main_Page.jpg");
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.splash_text_margin {
+  margin-top: 29vh;
+}
+
+.header_text {
+  margin-left: 7vw;
+  letter-spacing: 10vw;
+  font-size: 12vw;
+  font-family: 'Rammetto One', cursive;
+}
+
+.navigation_section {
+  padding-top: 5vw;
+  padding-bottom: 10vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.profile_pic {
+  border-radius: 100%;
+  max-width: 30vw;
+  min-width: 300px
+}
+
+.homepage_pics {
+  max-width: 33vw;
+  min-width: 340px
+}
+
+.homepage_section {
+  padding: 10vw;
+}
+
+.linear_gradient {
+  background:
+      linear-gradient(217deg, rgba(0,173,94,.8), rgba(0,173,94,0) 70.71%),
+      linear-gradient(127deg, rgba(249,238,6,.8), rgba(249,238,6,0) 70.71%),
+      linear-gradient(336deg, rgba(242,41,57,.8), rgba(242,41,57,0) 70.71%);
+}
+
+.footer_section {
+  padding-top: 10vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.footer_text {
+  font-size: 12px;
+}
