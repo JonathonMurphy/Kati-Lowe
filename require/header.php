@@ -9,9 +9,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href='css/jquery.fancybox.css'>
-	  <link rel="stylesheet" href="css/style.css">
+    <?php
+    if($Is_Index == true){
+      echo'
+      <link rel="stylesheet" href="css/bootstrap.css">
+      <link rel="stylesheet" href="css/jquery.fancybox.css">
+  	  <link rel="stylesheet" href="css/style.css">
+      ';
+    }else{
+      echo'
+      <link rel="stylesheet" href="../css/bootstrap.css">
+      <link rel="stylesheet" href="../css/jquery.fancybox.css">
+  	  <link rel="stylesheet" href="../css/style.css">
+      ';
+    }
+    ?>
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Anton|Oswald|Rammetto+One" rel="stylesheet">
@@ -24,5 +36,5 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <title><?php $Page_Title ?></title>
+    <title><?php echo $Page_Title ?></title>
   </head>
