@@ -1,5 +1,17 @@
+/*
+font-family: 'Oswald', sans-serif; LIKED FOR BOTH
+font-family: 'Anton', sans-serif; FOR NAV
+*/
+
+.navigation_options {
+  font-family: 'Anton', sans-serif;
+}
+
+p, figure, figcaption {
+  font-family: 'Oswald', sans-serif;
+}
+
 a {
-  font-family: 'Inconsolata', monospace;
   font-weight: bold;
 }
 /* unvisited link */
@@ -26,20 +38,18 @@ hr {
 p {
   color: #292b2c;
   font-size: 26px;
-  font-family: 'Inconsolata', monospace;
 }
 
 figcaption {
   color: #292b2c;
-  font-family: 'Inconsolata', monospace;
 }
 
 h3 {
-  text-decoration: underline;
+  font-size: 5vw;
   font-family: 'Rammetto One', cursive;
 }
 
-.parallax_img {
+.parallax_img_top {
   background-image: url("../imgs/Main_Page.jpg");
   height: 100vh;
   background-attachment: fixed;
@@ -65,6 +75,10 @@ h3 {
   font-size: 7vw;
   font-family: 'Rammetto One', cursive;
   margin-bottom: 3vw;
+}
+
+.past_works_text_paintings {
+  margin-top: 4vw;
 }
 
 .navigation_section_index {
@@ -96,6 +110,10 @@ h3 {
   padding: 10vw;
 }
 
+.content_section {
+  height: 100vh;
+}
+
 .break_pic {
   width: 75vw;
 }
@@ -115,6 +133,54 @@ h3 {
 
 .footer_text {
   font-size: 12px;
+}
+
+.parallax_img_center_1 {
+  background-image: url("../imgs/Main_Page.jpg");
+  height: 45vh;
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_img_center_2 {
+  background-image: url("../imgs/Main_Page.jpg");
+  height: 45vh;
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_img_center_3 {
+  background-image: url("../imgs/Main_Page.jpg");
+  height: 45vh;
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax_img_bottom {
+  background-image: url("../imgs/Main_Page.jpg");
+  height: 18vh;
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tagline_text_1 {
+  margin-top: 3vw;
+  font-size: 3vw;
+  font-family: 'Rammetto One', cursive;
+}
+
+.tagline_text_2 {
+  margin-bottom: 2vw ;
+  font-size: 3vw;
+  font-family: 'Rammetto One', cursive;
 }
 
 .painting_gallery {
