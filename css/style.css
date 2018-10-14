@@ -50,7 +50,7 @@ h3 {
 }
 
 .parallax_img_top {
-  background-image: url("../imgs/Main_Page.jpg");
+  background-image: url("../imgs//homepage/Main_Page.jpg");
   height: 100vh;
   background-attachment: fixed;
   background-position: center top;
@@ -73,6 +73,14 @@ h3 {
   margin-left: 7vw;
   letter-spacing: 5vw;
   font-size: 7vw;
+  font-family: 'Rammetto One', cursive;
+  margin-bottom: 5vw;
+}
+
+.sub_header_text_paintings {
+  margin-left: 5vw;
+  letter-spacing: 3vw;
+  font-size: 2vw;
   font-family: 'Rammetto One', cursive;
   margin-bottom: 3vw;
 }
@@ -136,7 +144,7 @@ h3 {
 }
 
 .parallax_img_center_1 {
-  background-image: url("../imgs/Main_Page.jpg");
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   height: 45vh;
   background-attachment: fixed;
   background-position: center top;
@@ -145,7 +153,7 @@ h3 {
 }
 
 .parallax_img_center_2 {
-  background-image: url("../imgs/Main_Page.jpg");
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   height: 45vh;
   background-attachment: fixed;
   background-position: center center;
@@ -154,7 +162,7 @@ h3 {
 }
 
 .parallax_img_center_3 {
-  background-image: url("../imgs/Main_Page.jpg");
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   height: 45vh;
   background-attachment: fixed;
   background-position: center bottom;
@@ -163,7 +171,7 @@ h3 {
 }
 
 .parallax_img_bottom {
-  background-image: url("../imgs/Main_Page.jpg");
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   height: 18vh;
   background-attachment: fixed;
   background-position: center bottom;
@@ -178,8 +186,8 @@ h3 {
 }
 
 .tagline_text_2 {
-  margin-bottom: 2vw ;
-  font-size: 3vw;
+  margin-bottom: 2vw;
+  font-size: 50px;
   font-family: 'Rammetto One', cursive;
 }
 
@@ -189,10 +197,21 @@ h3 {
   padding: 2vw;
 }
 
+.painting_gallery_double {
+  width: 50vw;
+  margin-left: ;
+  margin-bottom: 3vw;
+  padding: 2vw;
+}
+
 .painting_gallery_break {
   width: 99vw;
   margin-bottom: 3vw;
   padding: 2vw;
+}
+
+.metal_bug {
+  border-radius: 100%;
 }
 
 @media only screen and (max-width: 575px) {

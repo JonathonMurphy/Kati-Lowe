@@ -1,11 +1,8 @@
 <!-- Header -->
 <?php
-
 $Page_Title = "Kati Lowe - Home";
 $Is_Index = true;
-
 require("require/header.php");
-
 ?>
   <body>
     <div class="container-fluid">
@@ -26,15 +23,15 @@ require("require/header.php");
         <!-- About Me -->
           <div class="row justify-content-center align-items-center homepage_section">
             <div class="col-xl-7 content-container">
-              <a class='navigation_options' href="html/aboutme.html">
+              <a class='navigation_options' href="art/aboutme.php">
                 <h3 class='text-center'>
                   ABOUT ME
                 </h3>
               </a>
             </div>
             <div class="col-xl-5 content-container ">
-              <a class='navigation_options' href="html/aboutme.html">
-                <img class='profile_pic' src='imgs/Profile_Pic.jpg' alt='Photo of Kati Lowe'>
+              <a class='navigation_options' href="art/aboutme.php">
+                <img class='profile_pic' src='imgs/homepage/Profile_Pic.jpg' alt='Photo of Kati Lowe'>
               </a>
             </div>
           </div>
@@ -46,12 +43,12 @@ require("require/header.php");
           <!-- Sculpture -->
           <div class="row justify-content-center align-items-center homepage_section content_section">
             <div class="col-xl-5 content-container">
-              <a class='navigation_options' href="html/sculptures.html">
-                <img class='homepage_pics' src='imgs/sculpture/03_detail_01_edited.png' alt=''>
+              <a class='navigation_options' href="art/sculptures.php">
+                <img class='homepage_pics' src='imgs/homepage/sculpture.png' alt=''>
               </a>
             </div>
             <div class="col-xl-7 content-container">
-              <a class='navigation_options' href="html/sculptures.html">
+              <a class='navigation_options' href="art/sculptures.php">
                 <h3 class ='text-center'>
                   SCULPTURES
                 </h3>
@@ -66,15 +63,15 @@ require("require/header.php");
           <!-- Painting -->
           <div class="row justify-content-center align-items-center homepage_section content_section">
             <div class="col-xl-7 content-container">
-              <a class='navigation_options' href="html/paintings.html">
+              <a class='navigation_options' href="art/paintings.php">
                 <h3 class='text-center'>
                   PAINTINGS
                 </h3>
               </a>
             </div>
             <div class="col-xl-5 content-container">
-              <a class='navigation_options' href="html/paintings.html">
-                  <img class='homepage_pics' src='imgs/paintings/lowe_kati_06_edited.png' alt=''>
+              <a class='navigation_options' href="art/paintings.php">
+                  <img class='homepage_pics' src='imgs/homepage/paintings.png' alt=''>
               </a>
             </div>
           </div>
@@ -86,37 +83,22 @@ require("require/header.php");
           <!-- Illustrations -->
           <div class="row justify-content-center align-items-center homepage_section content_section">
             <div class="col-xl-5 content-container">
-              <a class='navigation_options' href="html/illustrations.html">
-                  <img class='homepage_pics' src='imgs/books_and_illustration/lowe_kati_23_edited.png' alt=''>
+              <a class='navigation_options' href="art/illustrations.php">
+                  <img class='homepage_pics' src='imgs/homepage/illustrations.png' alt=''>
               </a>
             </div>
             <div class="col-xl-7 content-container">
-              <a class='navigation_options' href="html/illustrations.html">
+              <a class='navigation_options' href="art/illustrations.php">
                 <h3 class='text-center'>
                   ILLUSTRATIONS
                 </h3>
               </a>
             </div>
           </div>
-          <!-- Footer -->
-          <div class="row justify-content-center align-items-center footer_section">
-            <div class="col-12 content-container">
-              <hr>
-            </div>
-            <div class="col-6 content-container">
-              <p class='text-left footer_text'>
-                © 2018 Kati Lowe
-              </p>
-            </div>
-            <div class="col-6 content-container">
-                <p class='text-right footer_text'>
-                  Website Design by <a class='' href="http://jsmurphy.info" target="_blank"> Jonathon Murphy </a>
-                </p>
-            </div>
-          </div>
-
-
-
+          <!-- Credits -->
+          <?php
+          require("require/credits.php");
+          ?>
         </div>
       </div>
       <!-- Tag Line -->
@@ -125,10 +107,9 @@ require("require/header.php");
           <h1 class='text-center tagline_text_1'>ARTIST - CREATOR - OBSERVER</h1>
         </div>
       </div>
-
-
     </div>
     <!-- Libraries -->
     <?php
+    $Is_Index = true;
     require("require/scripts.php");
     ?>

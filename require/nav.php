@@ -7,19 +7,19 @@
         <a class="navigation_options" href="index.php"  >
           Home</a>
           <span> - </span>
-        <a class="navigation_options" href="php/sculptures.php">
+        <a class="navigation_options" href="art/sculptures.php">
           Sculptures</a>
           <span> - </span>
-        <a class="navigation_options" href="php/paintings.php">
+        <a class="navigation_options" href="art/paintings.php">
           Paintings</a>
           <span> - </span>
-          <a class="navigation_options" href="php/illustrations.php">
+          <a class="navigation_options" href="art/illustrations.php">
           Illustrations</a>
           <span> - </span>
           <a class="navigation_options" href="https://www.instagram.com/katiannlowe/" target="_blank">
           Instagram</a>
           <span> - </span>
-        <a class="navigation_options" href="php/aboutme.php">
+        <a class="navigation_options" href="art/aboutme.php">
           About Me</a>
       </p>
       ';
