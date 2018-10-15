@@ -97,7 +97,7 @@ require("require/header.php");
           </div>
           <!-- Credits -->
           <?php
-          require("require/credits.php");
+          require("require/credits.html");
           ?>
         </div>
       </div>

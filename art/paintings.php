@@ -286,7 +286,7 @@ require("../require/header.php");
       </div>
       <!-- Credits -->
       <?php
-      require("../require/credits.php");
+      require("../require/credits.html");
       ?>
       <!-- Tag Line -->
       <div class="row justify-content-center align-items-center">

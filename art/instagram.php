@@ -18,10 +18,10 @@ require("../require/header.php");
         <h4 class='text-center sub_header_text_paintings'>INSTAGRAM</h4>
       </div>
     </div>
-    
+
     <!-- Credits -->
     <?php
-    require("../require/credits.php");
+    require("../require/credits.html");
     ?>
     <!-- Tag Line -->
     <div class="row justify-content-center align-items-center">
@@ -32,5 +32,6 @@ require("../require/header.php");
   </div>
   <!-- Libraries -->
   <?php
+  $instagram = true;
   require("../require/scripts.php");
   ?>
