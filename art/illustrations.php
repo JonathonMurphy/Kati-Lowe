@@ -18,7 +18,7 @@ require("../require/header.php");
       <div class="row justify-content-center align-items-center">
         <div class='col-12'>
           <h1 class='text-center header_text_paintings'>KATI LOWE</h1>
-          <h4 class='text-center sub_header_text_paintings'>ILLUSTRATION</h4>
+          <h4 class='text-center sub_header_text_paintings'>ILLUSTRATIONS</h4>
         </div>
       </div>
         <!-- Gallery -->

@@ -1,11 +1,8 @@
 <!-- Header -->
 <?php
-
 $Page_Title = "Kati Lowe - About me";
 $Is_Index = false;
-
 require("../require/header.php");
-
 ?>
   <body>
     <div class="container-fluid">
