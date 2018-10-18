@@ -16,7 +16,7 @@
           <a class="navigation_options" href="art/illustrations.php">
           Illustrations</a>
           <span> - </span>
-          <a class="navigation_options" href="art/instagram.php">
+          <a class="navigation_options" href="https://www.instagram.com/katiannlowe/" target="_blank">
           Instagram</a>
           <span> - </span>
         <a class="navigation_options" href="art/shows.php">
@@ -42,9 +42,9 @@
           <a class="navigation_options" href="illustrations.php">
           Illustrations</a>
           <span> - </span>
-          <a class="navigation_options" href="instagram.php">
+          <a class="navigation_options" href="https://www.instagram.com/katiannlowe/" target="_blank">
           Instagram</a>
-          <span> - </span>  
+          <span> - </span>
         <a class="navigation_options" href="shows.php">
           Shows</a>
           <span> - </span>

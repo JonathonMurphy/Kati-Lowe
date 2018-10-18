@@ -1,7 +1,7 @@
 $.ajax({
   type: "GET",
   dataType: "jsonp",
-  url: "https://api.instagram.com/v1/users/self/media/recent/?access_token=249170565.8251092.a4b1b33d6418484dbab251f75a0cb771",
+  url: "https://api.instagram.com/v1/users/1066437105/media/recent/?access_token=249170565.8251092.a4b1b33d6418484dbab251f75a0cb771",
   success: function(data) {
     let n = 0;
     for (var i = 0; i < 6; i++) {
