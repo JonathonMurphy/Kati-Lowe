@@ -3,14 +3,6 @@ font-family: 'Oswald', sans-serif; LIKED FOR BOTH
 font-family: 'Anton', sans-serif; FOR NAV
 */
 
-.navigation_options {
-  font-family: 'Anton', sans-serif;
-}
-
-p, figure, figcaption {
-  font-family: 'Oswald', sans-serif;
-}
-
 a {
   font-weight: bold;
 }
@@ -31,6 +23,14 @@ a:active {
     color: #292b2c;
 }
 
+.navigation_options {
+  font-family: 'Anton', sans-serif;
+}
+
+p, figure, figcaption {
+  font-family: 'Oswald', sans-serif;
+}
+
 hr {
   background-color: #292b2c;
 }
@@ -45,17 +45,8 @@ figcaption {
 }
 
 h3 {
-  font-size: 5vw;
   font-family: 'Rammetto One', cursive;
-}
-
-.parallax_img_top {
-  background-image: url("../imgs//homepage/Main_Page.jpg");
-  height: 100vh;
-  background-attachment: fixed;
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-size: cover;
+  font-size: 5vw;
 }
 
 .splash_text_margin {
@@ -63,26 +54,26 @@ h3 {
 }
 
 .header_text {
-  margin-left: 7vw;
-  letter-spacing: 10vw;
-  font-size: 12vw;
   font-family: 'Rammetto One', cursive;
+  font-size: 12vw;
+  letter-spacing: 10vw;
+  margin-left: 7vw;
 }
 
 .header_text_paintings {
-  margin-left: 7vw;
-  letter-spacing: 5vw;
-  font-size: 7vw;
   font-family: 'Rammetto One', cursive;
+  font-size: 7vw;
+  letter-spacing: 5vw;
   margin-bottom: 5vw;
+  margin-left: 7vw;
 }
 
 .sub_header_text_paintings {
-  margin-left: 5vw;
-  letter-spacing: 3vw;
-  font-size: 2vw;
   font-family: 'Rammetto One', cursive;
+  font-size: 2vw;
+  letter-spacing: 3vw;
   margin-bottom: 3vw;
+  margin-left: 5vw;
 }
 
 .past_works_text_paintings {
@@ -90,17 +81,17 @@ h3 {
 }
 
 .navigation_section_index {
-  padding-top: 5vw;
   padding-bottom: 10vw;
   padding-left: 10vw;
   padding-right: 10vw;
+  padding-top: 5vw;
 }
 
 .navigation_section {
-  padding-top: 5vw;
   padding-bottom: 3vw;
   padding-left: 10vw;
   padding-right: 10vw;
+  padding-top: 5vw;
 }
 
 .profile_pic {
@@ -134,80 +125,93 @@ h3 {
 }
 
 .footer_section {
-  padding-top: 10vw;
   padding-left: 10vw;
   padding-right: 10vw;
+  padding-top: 10vw;
 }
 
 .footer_text {
   font-size: 12px;
 }
 
-.parallax_img_center_1 {
-  background-image: url("../imgs/homepage/Main_Page.jpg");
-  height: 45vh;
+.parallax_img_top {
   background-attachment: fixed;
+  background-image: url("../imgs//homepage/Main_Page.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.parallax_img_center_1 {
+  background-attachment: fixed;
+  background-image: url("../imgs/homepage/Main_Page.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45vh;
+  width: 100vw;
 }
 
 .parallax_img_center_2 {
-  background-image: url("../imgs/homepage/Main_Page.jpg");
-  height: 45vh;
   background-attachment: fixed;
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 45vh;
+  width: 100vw;
 }
 
 .parallax_img_center_3 {
-  background-image: url("../imgs/homepage/Main_Page.jpg");
-  height: 45vh;
   background-attachment: fixed;
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 45vh;
+  width: 100vw;
 }
 
 .parallax_img_bottom {
-  background-image: url("../imgs/homepage/Main_Page.jpg");
-  height: 18vh;
   background-attachment: fixed;
+  background-image: url("../imgs/homepage/Main_Page.jpg");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 18vh;
+  width: 100vw;
 }
 
 .tagline_text_1 {
-  margin-top: 3vw;
-  font-size: 3vw;
   font-family: 'Rammetto One', cursive;
+  font-size: 3vw;
+  margin-top: 3vw;
 }
 
 .tagline_text_2 {
-  margin-bottom: 2vw;
-  font-size: 3vw;
   font-family: 'Rammetto One', cursive;
+  font-size: 3vw;
+  margin-bottom: 2vw;
 }
 
 .painting_gallery {
-  width: 33vw;
   margin-bottom: 3vw;
   padding: 2vw;
+  width: 33vw;
 }
 
 .painting_gallery_double {
-  width: 50vw;
-  margin-left: ;
   margin-bottom: 3vw;
   padding: 2vw;
+  width: 50vw;
 }
 
 .painting_gallery_break {
-  width: 99vw;
   margin-bottom: 3vw;
   padding: 2vw;
+  width: 99vw;
 }
 
 .metal_bug {
