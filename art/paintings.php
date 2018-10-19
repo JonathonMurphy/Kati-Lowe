@@ -27,7 +27,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-conversations-opaque.jpg" data-fancybox="gallery" data-caption="Conversations">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-conversations-transparent.png' alt='Conversations by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-conversations-transparent.jpg' alt='Conversations by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Conversations</figcaption>
           </figure>
@@ -35,7 +35,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-hiding-opaque.jpg" data-fancybox="gallery" data-caption="Hiding">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-hiding-transparent.png' alt='Hiding by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-hiding-transparent.jpg' alt='Hiding by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Hiding</figcaption>
           </figure>
@@ -43,7 +43,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-identity-opaque.jpg" data-fancybox="gallery" data-caption="Identity">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-identity-transparent.png' alt='Identity by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-identity-transparent.jpg' alt='Identity by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Identity</figcaption>
           </figure>
@@ -54,7 +54,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-pry-opaque.jpg" data-fancybox="gallery" data-caption="Pry">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-pry-transparent.png' alt='Pry by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-pry-transparent.jpg' alt='Pry by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Pry</figcaption>
           </figure>
@@ -62,7 +62,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-frustration-opaque.jpg" data-fancybox="gallery" data-caption="Frustration">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-frustration-transparent.png' alt='Frustration by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-frustration-transparent.jpg' alt='Frustration by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Frustration</figcaption>
           </figure>
@@ -70,7 +70,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-dopamine-opaque.jpg" data-fancybox="gallery" data-caption="Dopamine">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-dopamine-transparent.png' alt='Dopamine by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-dopamine-transparent.jpg' alt='Dopamine by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Dopamine</figcaption>
           </figure>
@@ -81,7 +81,7 @@ require("../require/header.php");
         <div class='col-12'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-oppressed-opaque.jpg" data-fancybox="gallery" data-caption="Oppressed">
-            	<img class='painting_gallery_break' src='../imgs/paintings/transparent/kati-lowe-oppressed-transparent.png' alt='Oppressed by Kati Lowe'>
+            	<img class='painting_gallery_break' src='../imgs/paintings/transparent/kati-lowe-oppressed-transparent-2.png' alt='Oppressed by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Oppressed</figcaption>
           </figure>
@@ -92,7 +92,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-searching-opaque.jpg" data-fancybox="gallery" data-caption="Searching">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-searching-transparent.png' alt='Searching by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-searching-transparent.jpg' alt='Searching by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Searching</figcaption>
           </figure>
@@ -100,7 +100,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-feeling-down-opaque.jpg" data-fancybox="gallery" data-caption="Feeling Down">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-feeling-down-transparent.png' alt='Feeling Down by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-feeling-down-transparent.jpg' alt='Feeling Down by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Feeling Down</figcaption>
           </figure>
@@ -108,7 +108,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-angst-opaque.jpg" data-fancybox="gallery" data-caption="Angst">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-angst-transparent.png' alt='Angst by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-angst-transparent.jpg' alt='Angst by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Angst</figcaption>
           </figure>
@@ -119,7 +119,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-trapped-opaque.jpg" data-fancybox="gallery" data-caption="Trapped">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-trapped-transparent.png' alt='Trapped by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-trapped-transparent.jpg' alt='Trapped by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Trapped</figcaption>
           </figure>
@@ -127,7 +127,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-pain-opaque.jpg" data-fancybox="gallery" data-caption="Pain">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-pain-transparent.png' alt='Pain by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-pain-transparent.jpg' alt='Pain by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Pain</figcaption>
           </figure>
@@ -135,7 +135,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-reflection-opaque.jpg" data-fancybox="gallery" data-caption="Reflection">
-            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-reflection-transparent.png' alt='Reflection by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-reflection-transparent.jpg' alt='Reflection by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Reflection</figcaption>
           </figure>
@@ -146,7 +146,7 @@ require("../require/header.php");
         <div class='col-12'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-untitled-1-opaque.jpg" data-fancybox="gallery" data-caption="Serotonin">
-            	<img class='painting_gallery_break' src='../imgs/paintings/transparent/kati-lowe-untitled-1-transparent.png' alt='Serotonin by Kati Lowe'>
+            	<img class='painting_gallery_break' src='../imgs/paintings/transparent/kati-lowe-untitled-1-transparent.jpg' alt='Serotonin by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Serotonin</figcaption>
           </figure>
@@ -157,7 +157,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-shame-to-be-a-woman-opaque.jpg" data-fancybox="gallery" data-caption="Shame to be a Woman">
-              <img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-shame-to-be-a-woman-transparent.png' alt='Shame to be a Woman by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-shame-to-be-a-woman-transparent.jpg' alt='Shame to be a Woman by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Shame to be a Woman</figcaption>
           </figure>
@@ -165,7 +165,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-poke-and-pry-opaque.jpg" data-fancybox="gallery" data-caption="Poke and Pry">
-              <img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-poke-and-pry-transparent.png' alt='Poke and Pry by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-poke-and-pry-transparent.jpg' alt='Poke and Pry by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Poke and Pry</figcaption>
           </figure>
@@ -173,7 +173,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/paintings/opaque/kati-lowe-the-body-opaque.jpg" data-fancybox="gallery" data-caption="The Body">
-              <img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-the-body-transparent_2.png' alt='The Body by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/paintings/transparent/kati-lowe-the-body-transparent.jpg' alt='The Body by Kati Lowe'>
             </a>
             <figcaption class='text-center'>The Body</figcaption>
           </figure>
