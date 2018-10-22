@@ -30,7 +30,7 @@ require("../require/header.php");
         <div class='col-12'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-artemis-opaque.jpg" data-fancybox="gallery" data-caption="Artemis">
-            	<img class='painting_gallery_break' src='../imgs/illustrations/transparent/kati-lowe-artemis-transparent.png' alt='Artemis by Kati Lowe'>
+            	<img class='painting_gallery_break' src='../imgs/illustrations/transparent/kati-lowe-artemis-transparent.webp' alt='Artemis by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Artemis</figcaption>
           </figure>
@@ -42,7 +42,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-rainbow-1-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
-              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-1-transparent.png' alt='Untitled by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-1-transparent.webp' alt='Untitled by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Untitled</figcaption>
           </figure>
@@ -50,7 +50,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-rainbow-2-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
-              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-2-transparent.png' alt='Untitled by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-2-transparent.webp' alt='Untitled by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Untitled</figcaption>
           </figure>
@@ -61,7 +61,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-confined-opaque.jpg" data-fancybox="gallery" data-caption="Confined">
-            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-confined-transparent.png' alt='Confined by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-confined-transparent.webp' alt='Confined by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Confined</figcaption>
           </figure>
@@ -72,7 +72,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-rainbow-3-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
-              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-3-transparent.png' alt='Untitled by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-3-transparent.webp' alt='Untitled by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Untitled</figcaption>
           </figure>
@@ -80,7 +80,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-rainbow-4-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
-              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-4-transparent.png' alt='Untitled by Kati Lowe'>
+              <img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-rainbow-4-transparent.webp' alt='Untitled by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Untitled</figcaption>
           </figure>
@@ -91,7 +91,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-peacock-opaque.jpg" data-fancybox="gallery" data-caption="Peacock">
-            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-peacock-transparent.png' alt='Peacock by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-peacock-transparent.webp' alt='Peacock by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Peacock</figcaption>
           </figure>
@@ -99,7 +99,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-happiness-opaque.jpg" data-fancybox="gallery" data-caption="Happiness">
-            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-happiness-transparent.png' alt='Happiness by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-happiness-transparent.webp' alt='Happiness by Kati Lowe'>
             </a>
             <figcaption class='text-center'>Happiness</figcaption>
           </figure>
@@ -111,7 +111,7 @@ require("../require/header.php");
         <div class='col-sm-4'>
           <figure>
             <a href="../imgs/illustrations/opaque/kati-lowe-the-princess-pig-opaque.jpg" data-fancybox="gallery" data-caption="The Princess Pig">
-            	<img class='painting_gallery' src='../imgs/illustrations/opaque/kati-lowe-the-princess-pig-opaque.jpg' alt='The Princess Pig by Kati Lowe'>
+            	<img class='painting_gallery' src='../imgs/illustrations/transparent/kati-lowe-the-princess-pig-opaque.jpg' alt='The Princess Pig by Kati Lowe'>
             </a>
             <figcaption class='text-center'>The Princess Pig - <a href='https://www.amazon.com/Wonder-Princess-Pig-Claire-Baker/dp/1942766092' target="_blank">Buy Here</a></figcaption>
           </figure>
