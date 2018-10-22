@@ -24,202 +24,202 @@ require("../require/header.php");
               PNG File Format with a transparent background -->
       <!-- Row One -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-insomnia-opaque.jpg" data-fancybox="gallery" data-caption="Insomnia">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-insomnia-transparent.webp' alt='Insomnia by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-insomnia-transparent.$imgtype"; ?> alt="Insomnia by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Insomnia</figcaption>
+            <figcaption class="text-center">Insomnia</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-untitled-1-opaque.jpg" data-fancybox="gallery" data-caption="Fawn">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-untitled-1-transparent.webp' alt='Fawn by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-untitled-1-transparent.$imgtype"; ?> alt="Fawn by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Fawn</figcaption>
+            <figcaption class="text-center">Fawn</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-face-plant-opaque.jpg" data-fancybox="gallery" data-caption="Face Plant">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-face-plant-transparent.webp' alt='Face Plant by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-face-plant-transparent.$imgtype"; ?> alt="Face Plant by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Face Plant</figcaption>
+            <figcaption class="text-center">Face Plant</figcaption>
           </figure>
         </div>
       </div>
-      <!-- Row Three -->
+      <!-- Row Two -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-12'>
+        <div class="col-12">
           <figure>
             <a href="./imgs/sculpture/opaque/kati-lowe-untitled-2-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
-            	<img class='painting_gallery_break' src='../imgs/sculpture/transparent/kati-lowe-untitled-2-transparent.webp' alt='Untitled by Kati Lowe'>
+            	<img class="painting_gallery_break" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-untitled-2-transparent.$imgtype"; ?> alt="Untitled by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Untitled</figcaption>
+            <figcaption class="text-center">Untitled</figcaption>
           </figure>
         </div>
       </div>
-          <!-- Row Two -->
+          <!-- Row Three -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-all-my-woes-blue-opaque.jpg" data-fancybox="gallery" data-caption="Details (All My Woes)">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-all-my-woes-blue-transparent.webp' alt='All My Woes by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-all-my-woes-blue-transparent.$imgtype"; ?> alt="All My Woes by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Details (All My Woes)</figcaption>
+            <figcaption class="text-center">Details (All My Woes)</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-all-my-woes-teal-opaque.jpg" data-fancybox="gallery" data-caption="Details (All My Woes)">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-all-my-woes-teal-transparent.webp' alt='All My Woes by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-all-my-woes-teal-transparent.$imgtype"; ?> alt="All My Woes by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Details (All My Woes)</figcaption>
+            <figcaption class="text-center">Details (All My Woes)</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-all-my-woes-red-opaque.jpg" data-fancybox="gallery" data-caption="Details (All My Woes)">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-all-my-woes-red-transparent.webp' alt='All My Woes by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-all-my-woes-red-transparent.$imgtype"; ?> alt="All My Woes by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Details (All My Woes)</figcaption>
+            <figcaption class="text-center">Details (All My Woes)</figcaption>
           </figure>
         </div>
       </div>
-      <!-- Row Three -->
+      <!-- Row Four -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-all-my-woes-purple-opaque.jpg" data-fancybox="gallery" data-caption="Details (All My Woes)">
-              <img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-all-my-woes-Purple-transparent.webp' alt='All My Woes by Kati Lowe'>
+              <img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-all-my-woes-purple-transparent.$imgtype"; ?> alt="All My Woes by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Details (All My Woes)</figcaption>
+            <figcaption class="text-center">Details (All My Woes)</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-all-my-woes-yellow-opaque.jpg" data-fancybox="gallery" data-caption="Details (All My Woes)">
-              <img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-all-my-woes-yellow-transparent.webp' alt='All My Woes by Kati Lowe'>
+              <img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-all-my-woes-yellow-transparent.$imgtype"; ?> alt="All My Woes by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Details (All My Woes)</figcaption>
+            <figcaption class="text-center">Details (All My Woes)</figcaption>
           </figure>
         </div>
       </div>
       <!-- Past Works -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-12'>
-          <h1 class='text-center header_text_paintings past_works_text_paintings'>PAST WORKS</h1>
+        <div class="col-12">
+          <h1 class="text-center header_text_paintings past_works_text_paintings">PAST WORKS</h1>
         </div>
       </div>
-      <!-- Row One -->
+      <!-- Row Five -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-cocoon-opaque.jpg" data-fancybox="gallery" data-caption="Cocoon">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-cocoon-transparent.webp' alt='Cocoon by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-cocoon-transparent.$imgtype"; ?> alt="Cocoon by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Cocoon</figcaption>
+            <figcaption class="text-center">Cocoon</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-pomegrante-opaque.jpg" data-fancybox="gallery" data-caption="Pomegrante">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-pomegrante-transparent.webp' alt='Pomegrante by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-pomegrante-transparent.$imgtype"; ?> alt="Pomegrante by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Pomegrante</figcaption>
+            <figcaption class="text-center">Pomegrante</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-clustered-opaque.jpg" data-fancybox="gallery" data-caption="Clustered">
-            	<img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-clustered-transparent.webp' alt='Clustered by Kati Lowe'>
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-clustered-transparent.$imgtype"; ?> alt="Clustered by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Clustered</figcaption>
+            <figcaption class="text-center">Clustered</figcaption>
           </figure>
         </div>
       </div>
-      <!-- Row Three -->
+      <!-- Row Six -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-boxes-1-opaque.jpg" data-fancybox="gallery" data-caption="Home">
-              <img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-boxes-1-transparent.webp' alt='Home by Kati Lowe'>
+              <img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-boxes-1-transparent.$imgtype"; ?> alt="Home by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Home</figcaption>
+            <figcaption class="text-center">Home</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-boxes-2-opaque.jpg" data-fancybox="gallery" data-caption="Kitchen">
-              <img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-boxes-2-transparent.webp' alt='Kitchen by Kati Lowe'>
+              <img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-boxes-2-transparent.$imgtype"; ?> alt="Kitchen by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Kitchen</figcaption>
+            <figcaption class="text-center">Kitchen</figcaption>
           </figure>
         </div>
       </div>
-      <!-- Row Three -->
+      <!-- Row Seven -->
       <div class="row justify-content-center align-items-center">
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-boxes-3-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
-              <img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-boxes-3-transparent.webp' alt='Untitled by Kati Lowe'>
+              <img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-boxes-3-transparent.$imgtype"; ?> alt="Untitled by Kati Lowe">
             </a>
-            <figcaption class='text-center'>Untitled</figcaption>
+            <figcaption class="text-center">Untitled</figcaption>
           </figure>
         </div>
-        <div class='col-sm-4'>
+        <div class="col-sm-4">
           <figure>
             <a href="../imgs/sculpture/opaque/kati-lowe-house-opaque.jpg" data-fancybox="gallery" data-caption="House">
-              <img class='painting_gallery' src='../imgs/sculpture/transparent/kati-lowe-house-transparent.webp' alt='House by Kati Lowe'>
+              <img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-house-transparent.$imgtype"; ?> alt="House by Kati Lowe">
             </a>
-            <figcaption class='text-center'>House</figcaption>
+            <figcaption class="text-center">House</figcaption>
           </figure>
         </div>
       </div>
-      <!-- Row Two -->
+      <!-- Row Eight -->
   <div class="row justify-content-center align-items-center">
-    <div class='col-sm-4'>
+    <div class="col-sm-4">
       <figure>
         <a href="../imgs/sculpture/opaque/kati-lowe-bug-1-opaque.jpg" data-fancybox="gallery" data-caption="Dung Beetle">
-          <img class='painting_gallery metal_bug' src='../imgs/sculpture/transparent/kati-lowe-bug-1-transparent.webp' alt='Dung Beetle by Kati Lowe'>
+          <img class="painting_gallery metal_bug" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-bug-1-transparent.$imgtype"; ?> alt="Dung Beetle by Kati Lowe">
         </a>
-        <figcaption class='text-center'>Dung Beetle</figcaption>
+        <figcaption class="text-center">Dung Beetle</figcaption>
       </figure>
     </div>
-    <div class='col-sm-4'>
+    <div class="col-sm-4">
       <figure>
         <a href="../imgs/sculpture/opaque/kati-lowe-bug-2-opaque.jpg" data-fancybox="gallery" data-caption="Tick">
-          <img class='painting_gallery metal_bug' src='../imgs/sculpture/transparent/kati-lowe-bug-2-transparent.webp' alt='Tick by Kati Lowe'>
+          <img class="painting_gallery metal_bug" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-bug-2-transparent.$imgtype"; ?> alt="Tick by Kati Lowe">
         </a>
-        <figcaption class='text-center'>Tick</figcaption>
+        <figcaption class="text-center">Tick</figcaption>
       </figure>
     </div>
-    <div class='col-sm-4'>
+    <div class="col-sm-4">
       <figure>
         <a href="../imgs/sculpture/opaque/kati-lowe-bug-3-opaque.jpg" data-fancybox="gallery" data-caption="Long-horned Beetle">
-          <img class='painting_gallery metal_bug' src='../imgs/sculpture/transparent/kati-lowe-bug-3-transparent.webp' alt='Long-horned Beetle by Kati Lowe'>
+          <img class="painting_gallery metal_bug" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-bug-3-transparent.$imgtype"; ?> alt="Long-horned Beetle by Kati Lowe">
         </a>
-        <figcaption class='text-center'>Long-horned Beetle</figcaption>
+        <figcaption class="text-center">Long-horned Beetle</figcaption>
       </figure>
     </div>
   </div>
-  <!-- Row Three -->
+  <!-- Row Nine -->
   <div class="row justify-content-center align-items-center">
-    <div class='col-sm-4'>
+    <div class="col-sm-4">
       <figure>
         <a href="../imgs/sculpture/opaque/kati-lowe-bug-4-opaque.jpg" data-fancybox="gallery" data-caption="Scorpion">
-          <img class='painting_gallery metal_bug' src='../imgs/sculpture/transparent/kati-lowe-bug-4-transparent.webp' alt='Scorpion by Kati Lowe'>
+          <img class="painting_gallery metal_bug" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-bug-4-transparent.$imgtype"; ?> alt="Scorpion by Kati Lowe">
         </a>
-        <figcaption class='text-center'>Scorpion</figcaption>
+        <figcaption class="text-center">Scorpion</figcaption>
       </figure>
     </div>
-    <div class='col-sm-4'>
+    <div class="col-sm-4">
       <figure>
         <a href="../imgs/sculpture/opaque/kati-lowe-bug-5-opaque.jpg" data-fancybox="gallery" data-caption="Mosquito">
-          <img class='painting_gallery metal_bug' src='../imgs/sculpture/transparent/kati-lowe-bug-5-transparent.webp' alt='Mosquito by Kati Lowe'>
+          <img class="painting_gallery metal_bug" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-bug-5-transparent.$imgtype"; ?> alt="Mosquito by Kati Lowe">
         </a>
-        <figcaption class='text-center'>Mosquito</figcaption>
+        <figcaption class="text-center">Mosquito</figcaption>
       </figure>
     </div>
   </div>
