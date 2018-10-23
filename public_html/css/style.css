@@ -141,9 +141,6 @@ h3 {
   background-size: cover;
   width: 100vw;
 }
-.safari_parallax_img{
-  background-size: contain;
-}
 .parallax_img_top {
   background-position: center top;
   height: 100vh;

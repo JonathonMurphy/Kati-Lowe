@@ -3,7 +3,7 @@ if($Is_Index == true){
   echo'
   <script src="js/jquery-3.3.1.js></script>
   <script src="js/jquery.fancybox.js"></script
-  <script src="js/safati.js"></script>
+  <script src="js/safari.js"></script>
   ';
 }else{
   echo'
