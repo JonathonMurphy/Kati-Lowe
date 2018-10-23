@@ -8,7 +8,7 @@ require("require/header.php");
     <div class="container-fluid">
       <!-- Splash Page -->
       <div class="row justify-content-center align-items-center">
-        <div class="col-12 content-container text-center parallax_img_top">
+        <div class="col-12 content-container text-center parallax_img parallax_img_top">
           <h1 class='text-center splash_text_margin header_text'>KATI</h1>
           <h1 class='text-center header_text'>LOWE</h1>
         </div>
@@ -37,7 +37,7 @@ require("require/header.php");
           </div>
           <!-- Break One -->
           <div class="row justify-content-center align-items-center">
-            <div class="col-12 content-container text-center parallax_img_center_1">
+            <div class="col-12 content-container text-center parallax_img parallax_img_center_1">
             </div>
           </div>
           <!-- Sculpture -->
@@ -57,7 +57,7 @@ require("require/header.php");
           </div>
           <!-- Break Two -->
           <div class="row justify-content-center align-items-center">
-            <div class="col-12 content-container text-center parallax_img_center_2">
+            <div class="col-12 content-container text-center parallax_img parallax_img_center_2">
             </div>
           </div>
           <!-- Painting -->
@@ -77,7 +77,7 @@ require("require/header.php");
           </div>
           <!-- Break Three-->
           <div class="row justify-content-center align-items-center">
-            <div class="col-12 content-container text-center parallax_img_center_3">
+            <div class="col-12 content-container text-center parallax_img parallax_img_center_3">
             </div>
           </div>
           <!-- Illustrations -->
@@ -103,7 +103,7 @@ require("require/header.php");
       </div>
       <!-- Tag Line -->
       <div class="row justify-content-center align-items-center">
-        <div class="col-12 content-container text-center parallax_img_bottom">
+        <div class="col-12 content-container text-center parallax_img parallax_img_bottom">
           <h1 class='text-center tagline_text_1'>ARTIST - CREATOR - OBSERVER</h1>
         </div>
       </div>

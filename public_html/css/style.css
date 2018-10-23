@@ -134,55 +134,38 @@ h3 {
   font-size: 12px;
 }
 
-.parallax_img_top {
+.parallax_img {
   background-attachment: fixed;
   background-image: url("../imgs//homepage/Main_Page.jpg");
-  background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100vw;
+}
+.safari_parallax_img{
+  background-size: contain;
+}
+.parallax_img_top {
+  background-position: center top;
   height: 100vh;
-  width: 100vw;
 }
-
 .parallax_img_center_1 {
-  background-attachment: fixed;
-  background-image: url("../imgs/homepage/Main_Page.jpg");
   background-position: center top;
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 45vh;
-  width: 100vw;
 }
-
 .parallax_img_center_2 {
-  background-attachment: fixed;
-  background-image: url("../imgs/homepage/Main_Page.jpg");
   background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 45vh;
-  width: 100vw;
 }
-
 .parallax_img_center_3 {
-  background-attachment: fixed;
-  background-image: url("../imgs/homepage/Main_Page.jpg");
   background-position: center bottom;
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 45vh;
-  width: 100vw;
+}
+.parallax_img_bottom {
+  background-position: center bottom;
+  height: 18vh;
 }
 
-.parallax_img_bottom {
-  background-attachment: fixed;
-  background-image: url("../imgs/homepage/Main_Page.jpg");
-  background-position: center bottom;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 18vh;
-  width: 100vw;
-}
+
 
 .tagline_text_1 {
   font-family: 'Rammetto One', cursive;
