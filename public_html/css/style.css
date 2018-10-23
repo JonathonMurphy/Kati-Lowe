@@ -2,6 +2,26 @@
 font-family: 'Oswald', sans-serif; LIKED FOR BOTH
 font-family: 'Anton', sans-serif; FOR NAV
 */
+/*
+
+OPossible fix for css parallax scorlling on mobile 
+
+body:after{
+      content:"";
+      position:fixed; /* stretch a fixed position to the whole screen
+      top:0;
+      height:100vh; /* fix for mobile browser address bar appearing disappearing
+      left:0;
+      right:0;
+      z-index:-1; /* needed to keep in the background
+      background: url(https://www.w3schools.com/css/trolltunga.jpg) center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+*/
+
 
 a {
   font-weight: bold;
@@ -160,6 +180,11 @@ h3 {
 .parallax_img_bottom {
   background-position: center bottom;
   height: 18vh;
+}
+@media only screen and (max-width: 812px) {
+  .parallax_img {
+    background-attachment: scroll;
+  }
 }
 
 
