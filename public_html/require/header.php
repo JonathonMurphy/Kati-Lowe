@@ -19,10 +19,20 @@
     </script>
 
 
+
+
     <!-- CSS -->
     <?php
     if($Is_Index == true){
       echo'
+      <!--Address Bar Color -->
+      <!-- Chrome, Firefox OS and Opera -->
+      <meta name="theme-color" content="#fa8c03">
+      <!-- Windows Phone -->
+      <meta name="msapplication-navbutton-color" content="#fa8c03">
+      <!-- iOS Safari -->
+      <meta name="apple-mobile-web-app-status-bar-style" content="#fa8c03">
+
       <!-- CSS -->
       <link rel="stylesheet" href="css/bootstrap.css">
       <link rel="stylesheet" href="css/jquery.fancybox.css">
@@ -38,6 +48,14 @@
       ';
     }else{
       echo'
+      <!--Address Bar Color -->
+      <!-- Chrome, Firefox OS and Opera -->
+      <meta name="theme-color" content="#ffffff">
+      <!-- Windows Phone -->
+      <meta name="msapplication-navbutton-color" content="#ffffff">
+      <!-- iOS Safari -->
+      <meta name="apple-mobile-web-app-status-bar-style" content="#ffffff">
+
       <!-- CSS -->
       <link rel="stylesheet" href="../css/bootstrap.css">
       <link rel="stylesheet" href="../css/jquery.fancybox.css">
