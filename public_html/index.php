@@ -21,7 +21,7 @@ require("require/header.php");
         require("require/nav.php");
         ?>
         <!-- About Me -->
-          <div class="row justify-content-center align-items-center homepage_section">
+          <div class="row justify-content-center align-items-center homepage_section content_section">
             <div class="col-xl-7 content-container">
               <a class='navigation_options' href="art/aboutme.php">
                 <h3 class='text-center'>
@@ -31,7 +31,7 @@ require("require/header.php");
             </div>
             <div class="col-xl-5 content-container ">
               <a class='navigation_options' href="art/aboutme.php">
-                <img class='profile_pic' src='imgs/homepage/Profile_Pic.jpg' alt='Photo of Kati Lowe'>
+                <img class='homepage_pics mx-auto d-block' src='imgs/homepage/Profile_Pic.png' alt='Photo of Kati Lowe'>
               </a>
             </div>
           </div>
@@ -44,7 +44,7 @@ require("require/header.php");
           <div class="row justify-content-center align-items-center homepage_section content_section">
             <div class="col-xl-5 content-container">
               <a class='navigation_options' href="art/sculptures.php">
-                <img class='homepage_pics' src='imgs/homepage/sculpture.png' alt=''>
+                <img class='homepage_pics mx-auto d-block' src='imgs/homepage/sculpture.png' alt=''>
               </a>
             </div>
             <div class="col-xl-7 content-container">
@@ -71,7 +71,7 @@ require("require/header.php");
             </div>
             <div class="col-xl-5 content-container">
               <a class='navigation_options' href="art/paintings.php">
-                  <img class='homepage_pics' src='imgs/homepage/paintings.png' alt=''>
+                  <img class='homepage_pics mx-auto d-block' src='imgs/homepage/paintings.png' alt=''>
               </a>
             </div>
           </div>
@@ -84,7 +84,7 @@ require("require/header.php");
           <div class="row justify-content-center align-items-center homepage_section content_section">
             <div class="col-xl-5 content-container">
               <a class='navigation_options' href="art/illustrations.php">
-                  <img class='homepage_pics' src='imgs/homepage/illustrations.png' alt=''>
+                  <img class='homepage_pics mx-auto d-block' src='imgs/homepage/illustrations.png' alt=''>
               </a>
             </div>
             <div class="col-xl-7 content-container">

@@ -114,12 +114,6 @@ h3 {
   padding-top: 5vw;
 }
 
-.profile_pic {
-  border-radius: 100%;
-  max-width: 30vw;
-  min-width: 300px
-}
-
 .homepage_pics {
   max-width: 33vw;
   min-width: 340px
