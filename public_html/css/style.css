@@ -4,7 +4,7 @@ font-family: 'Anton', sans-serif; FOR NAV
 */
 /*
 
-OPossible fix for css parallax scorlling on mobile 
+OPossible fix for css parallax scorlling on mobile
 
 body:after{
       content:"";
@@ -184,6 +184,21 @@ h3 {
 @media only screen and (max-width: 812px) {
   .parallax_img {
     background-attachment: scroll;
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  .parallax_img {
+    background-attachment: scroll;
+  }
+  .parallax_img_center_1 {
+    display: none;
+  }
+  .parallax_img_center_2 {
+    display: none;
+  }
+  .parallax_img_center_3 {
+    display: none;
   }
 }
 
