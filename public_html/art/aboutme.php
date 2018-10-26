@@ -31,7 +31,7 @@ require("../require/header.php");
           </div>
           <div class="col-sm-5 content-container ">
             <a class='navigation_options' href="html/aboutme.html">
-              <img class='profile_pic' src='../imgs/homepage/Profile_Pic.jpg' alt='Photo of Kati Lowe'>
+              <img class='homepage_pics' src='../imgs/homepage/Profile_Pic.png' alt='Photo of Kati Lowe'>
             </a>
           </div>
         </div>
