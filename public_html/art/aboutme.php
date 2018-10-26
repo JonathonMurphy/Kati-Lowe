@@ -2,6 +2,7 @@
 <?php
 $Page_Title = "Kati Lowe - About me";
 $Is_Index = false;
+$About_Me = true;
 require("../require/header.php");
 ?>
   <body>
