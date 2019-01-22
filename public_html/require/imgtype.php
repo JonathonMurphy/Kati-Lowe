@@ -1,11 +1,15 @@
 <?php
 $browser = get_browser(null, true);
 $imgtype;
-if ($browser['browser'] == 'Chrome' || 'Opera') {
+switch ($browser['browser']) {
+  case "Chrome":
     $imgtype = 'webp';
-} elseif ($browser['browser'] == 'Safari') {
+    break;
+  case "Safari":
     $imgtype = 'jp2';
-} else {
+    break;
+  default:
     $imgtype = 'jpg';
+    break;
 }
 ?>
