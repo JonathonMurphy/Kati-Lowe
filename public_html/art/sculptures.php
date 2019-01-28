@@ -53,7 +53,7 @@ require("../require/header.php");
       <div class="row justify-content-center align-items-center">
         <div class="col-12">
           <figure>
-            <a href="../imgs/sculpture/opaque/kati-lowe-untitled-2-opaque.JPG" data-fancybox="gallery" data-caption="Untitled">
+            <a href="../imgs/sculpture/opaque/kati-lowe-untitled-2-opaque.jpg" data-fancybox="gallery" data-caption="Untitled">
             	<img class="painting_gallery_break" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-untitled-2-transparent.$imgtype"; ?> alt="Untitled by Kati Lowe">
             </a>
             <figcaption class="text-center">Untitled</figcaption>
