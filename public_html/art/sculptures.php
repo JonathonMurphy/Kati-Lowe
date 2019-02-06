@@ -22,6 +22,43 @@ require("../require/header.php");
         <!-- Rows must be in a 2w:3h aspect ratio
              amd Center Pieces must be a 1:1 aspect ratio
               PNG File Format with a transparent background -->
+      <div class="row justify-content-center align-items-center">
+        <div class="col-sm-4">
+          <figure>
+            <a href="../imgs/sculpture/opaque/kati-lowe-sinking-opaque.jpg" data-fancybox="gallery" data-caption="Sinking">
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-sinking-transparent.$imgtype"; ?> alt="Sinking by Kati Lowe">
+            </a>
+            <figcaption class="text-center">Sinking</figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-4">
+          <figure>
+            <a href="../imgs/sculpture/opaque/kati-lowe-crouching-opaque.jpg" data-fancybox="gallery" data-caption="Crouching">
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-crouching-transparent.$imgtype"; ?> alt="Crouching by Kati Lowe">
+            </a>
+            <figcaption class="text-center">Crouching</figcaption>
+          </figure>
+        </div>
+      </div>
+
+      <div class="row justify-content-center align-items-center">
+        <div class="col-sm-4">
+          <figure>
+            <a href="../imgs/sculpture/opaque/kati-lowe-sisters-opaque.jpg" data-fancybox="gallery" data-caption="Sisters">
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-sisters-transparent.$imgtype"; ?> alt="Sisters by Kati Lowe">
+            </a>
+            <figcaption class="text-center">Sisters</figcaption>
+          </figure>
+        </div>
+        <div class="col-sm-4">
+          <figure>
+            <a href="../imgs/sculpture/opaque/kati-lowe-crawling-opaque.jpg" data-fancybox="gallery" data-caption="Crawling">
+            	<img class="painting_gallery" src=<?php require("../require/imgtype.php"); echo "../imgs/sculpture/transparent/$imgtype/kati-lowe-crawling-transparent.$imgtype"; ?> alt="Crawling by Kati Lowe">
+            </a>
+            <figcaption class="text-center">Crawling</figcaption>
+          </figure>
+        </div>
+      </div>
       <!-- Row One -->
       <div class="row justify-content-center align-items-center">
         <div class="col-sm-4">

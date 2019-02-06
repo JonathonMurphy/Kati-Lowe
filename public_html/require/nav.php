@@ -19,8 +19,8 @@
           <a class="navigation_options" href="https://www.instagram.com/katiannlowe/" target="_blank">
           Instagram</a>
           <span> - </span>
-        <a class="navigation_options" href="art/shows.php">
-          Shows</a>
+          <a class="navigation_options" href="https://www.etsy.com/shop/KatiLoweArt" target="_blank">
+          Store</a>
           <span> - </span>
         <a class="navigation_options" href="art/aboutme.php">
           About Me</a>
@@ -45,8 +45,8 @@
           <a class="navigation_options" href="https://www.instagram.com/katiannlowe/" target="_blank">
           Instagram</a>
           <span> - </span>
-        <a class="navigation_options" href="shows.php">
-          Shows</a>
+          <a class="navigation_options" href="https://www.etsy.com/shop/KatiLoweArt" target="_blank">
+          Store</a>
           <span> - </span>
         <a class="navigation_options" href="aboutme.php">
           About Me</a>

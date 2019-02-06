@@ -116,8 +116,10 @@ h3 {
 
 .homepage_pics {
   max-width: 33vw;
-  min-width: 340px
+  min-width: 200px
 }
+
+
 
 .homepage_section {
   padding: 10vw;
