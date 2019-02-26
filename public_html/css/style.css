@@ -23,6 +23,25 @@ body:after{
 */
 
 
+.form-control, .form-control:focus {
+  width: 100%;
+  color: #292b2c;
+  font-family: 'Oswald', sans-serif;
+}
+
+input[type=submit], input[type=button] {
+  position: absolute;
+  right: 15px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
 a {
   font-weight: bold;
 }
@@ -67,6 +86,11 @@ figcaption {
 h3 {
   font-family: 'Rammetto One', cursive;
   font-size: 5vw;
+}
+
+h4 {
+  font-family: 'Rammetto One', cursive;
+  font-size: 3vw;
 }
 
 .splash_text_margin {
@@ -123,6 +147,23 @@ h3 {
 
 .homepage_section {
   padding: 10vw;
+}
+
+.aboutme_section {
+  padding-top: 1vw;
+}
+
+.aboutme_pic {
+  max-width: 28vw;
+  min-width: 200px;
+  position: absolute;
+  margin-left: 50px;
+  margin-top: -70px;
+}
+
+.contact_section {
+  margin-top: 25px;
+  padding-bottom: 1vw;
 }
 
 .content_section {
