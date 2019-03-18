@@ -19,8 +19,10 @@ http.createServer((request, response) => {
       body.content.email = body.content.email.match(emailRegex).join("");
       body.content.name = body.content.name.match(nameRegex).join("");
       body.content.message = body.content.message.match(messageRegex).join("");
+      body.metadata.ipAddress = request.connection.remoteAddress.replace(/^.*:/, '');
       console.log(body);
-      fs.writeFile('./contact'+messageIndex+'.json', JSON.stringify(body));
+      // fs.writeFile('./contact'+messageIndex+'.json', JSON.stringify(body));
+      fs.writeFile('testLog.json', JSON.stringify(body));
       messageIndex++;
     });
     response.end();

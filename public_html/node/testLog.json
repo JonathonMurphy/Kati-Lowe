@@ -2,11 +2,14 @@
   "content": {
     "email": "JSMurphy1991@gmail.com",
     "name": "Jonathon Seth Murphy",
-    "message": "Test $125.00"
+    "message": "Test"
   },
   "date": {
-    "date": "3-14-2019",
-    "time": "9:57:30"
+    "date": "3-18-2019",
+    "time": "7:31:58"
   },
-  "metadata": {}
+  "metadata": {
+    "ipAddress": "64.106.129.114"
+  },
+  "beenEmailed": false
 }
