@@ -2,6 +2,8 @@
 
 This is the code repository for KatiLowe.gallery and KatiLowe.com
 
+![alt text](public_html/imgs/Screen Shot 2019-05-07 at 9.08.32 AM.png?raw=true "Title")
+
 ## Author
 
 * Jonathon Seth Murphy
