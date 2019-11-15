@@ -1,0 +1,41 @@
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: posts","time":"2019-11-15T13:58:03.346Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: posts_meta","time":"2019-11-15T13:58:03.599Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: users","time":"2019-11-15T13:58:03.723Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: posts_authors","time":"2019-11-15T13:58:03.868Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: roles","time":"2019-11-15T13:58:03.912Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: roles_users","time":"2019-11-15T13:58:04.011Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: permissions","time":"2019-11-15T13:58:04.031Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: permissions_users","time":"2019-11-15T13:58:04.055Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: permissions_roles","time":"2019-11-15T13:58:04.396Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: permissions_apps","time":"2019-11-15T13:58:04.474Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: settings","time":"2019-11-15T13:58:04.482Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: tags","time":"2019-11-15T13:58:04.495Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: posts_tags","time":"2019-11-15T13:58:04.507Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: apps","time":"2019-11-15T13:58:04.519Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: app_settings","time":"2019-11-15T13:58:04.544Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: app_fields","time":"2019-11-15T13:58:04.563Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: invites","time":"2019-11-15T13:58:04.576Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: brute","time":"2019-11-15T13:58:04.602Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: webhooks","time":"2019-11-15T13:58:04.611Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: sessions","time":"2019-11-15T13:58:04.620Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: integrations","time":"2019-11-15T13:58:04.633Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: api_keys","time":"2019-11-15T13:58:04.645Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2019-11-15T13:58:04.664Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: members","time":"2019-11-15T13:58:04.684Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: members_stripe_customers","time":"2019-11-15T13:58:04.700Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2019-11-15T13:58:04.708Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Creating table: actions","time":"2019-11-15T13:58:04.721Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Model: Tag","time":"2019-11-15T13:58:04.742Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Model: Role","time":"2019-11-15T13:58:04.807Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Model: Permission","time":"2019-11-15T13:58:05.131Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Model: User","time":"2019-11-15T13:58:06.100Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Model: Post","time":"2019-11-15T13:58:08.636Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Model: Integration","time":"2019-11-15T13:58:10.031Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Relation: Role to Permission","time":"2019-11-15T13:58:10.167Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Relation: Post to Tag","time":"2019-11-15T13:58:11.083Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Relation: User to Role","time":"2019-11-15T13:58:11.350Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Ghost is running in development...","time":"2019-11-15T13:58:20.657Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2019-11-15T13:58:20.660Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2019-11-15T13:58:20.663Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Ctrl+C to shut down","time":"2019-11-15T13:58:20.669Z","v":0}
+{"name":"Log","hostname":"jmurphy-mac.local","pid":38590,"level":30,"msg":"Ghost boot 27.506s","time":"2019-11-15T13:58:20.676Z","v":0}
